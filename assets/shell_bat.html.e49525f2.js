@@ -1,0 +1,1 @@
+const e={key:"v-02ee5ceb",path:"/pages/tools/shell_bat.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"mbs",slug:"mbs",children:[]}],git:{updatedTime:1640335371e3,contributors:[{name:"hxdyj",email:"951540966@qq.com",commits:1}]},filePathRelative:"pages/tools/shell_bat.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-d2a95eba",path:"/pages/typescript/Guide.html",title:"Typescript Guide",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640335371e3,contributors:[{name:"hxdyj",email:"951540966@qq.com",commits:1}]},filePathRelative:"pages/typescript/Guide.md"};export{e as data};
